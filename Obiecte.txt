@@ -1,0 +1,5 @@
+Artist Michael 03.05.2010 Cluj 10 10000
+Movie Dreamer Joe,Michael,Ron 03.05.2010 Cluj 10 10000
+Administrator admin 222
+Administrator user aaa
+Administrator cosmin bbb
